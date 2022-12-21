@@ -1,0 +1,29 @@
+.margetop{
+    margin-top: 80px;
+    
+}
+.info {
+  border-color: #2196F3;
+  color: dodgerblue;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+
+
+
+body {
+    margin: 0;
+    background-image: url(../images/Dark.jpg);
+    font: 600 16px/18px 'Open Sans', sans-serif
+}
+
+
+
+
